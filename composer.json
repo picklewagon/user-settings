@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "picklewagon\\user-settings\\": "src"
+            "Picklewagon\\UserSettings\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "picklewagon\\user-settings\\": "tests"
+            "Picklewagon\\UserSettings\\": "tests"
         }
     },
     "scripts": {
